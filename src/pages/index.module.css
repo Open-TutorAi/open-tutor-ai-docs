@@ -1,0 +1,208 @@
+/* General Layout */
+.heroBanner {
+  position: relative;
+  background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d); /* Futuristic gradient */
+  padding: 50px 0; /* Increased top and bottom padding for a larger hero section */
+  color: white;
+  text-align: left;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  border-radius: 0px;
+  overflow: hidden;
+  z-index: 0;
+}
+
+/* Left Section Styling */
+.heroContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 60px; /* Increased gap for better separation */
+}
+
+.leftSection {
+  flex: 1;
+  max-width: 50%;
+  z-index: 1;
+}
+
+/* Animation for Hero Text */
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.heroTitle, .heroSubtitle {
+  opacity: 0;
+  animation: fadeInUp 1.5s ease-in-out forwards;
+}
+
+/* Delay the subtitle animation */
+.heroSubtitle {
+  animation-delay: 0.5s; /* Subtitle fades in a little after the title */
+}
+
+/* Hero Title */
+.heroTitle {
+  font-size: 4rem; /* Larger font size */
+  font-weight: 900; /* Bolder font for impact */
+  letter-spacing: 2px; /* Increased spacing for futuristic feel */
+  margin-bottom: 20px;
+  line-height: 1.2;
+  font-family: 'Orbitron', sans-serif; /* Futuristic font */
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2); /* Subtle text shadow for depth */
+}
+
+.heroSubtitle {
+  font-size: 1.3rem;
+  line-height: 1.6;
+  margin-bottom: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300; /* Lighter weight for readability */
+  color: #dfe6f0; /* Light color to contrast with darker background */
+}
+
+.buttons {
+  display: flex;
+  gap: 30px;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+/* Button Styles */
+.buttonPrimary, .buttonSecondary {
+  font-size: 1rem;
+  padding: 18px 40px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  font-family: 'Orbitron', sans-serif;
+  width: 220px; /* Set width to be consistent */
+  text-align: center; /* Center the text horizontally */
+  display: flex;
+  justify-content: center; /* Center the text horizontally within the flex container */
+  align-items: center; /* Center the text vertically */
+  box-sizing: border-box;
+  white-space: nowrap;
+  border: 2px solid transparent; /* Border initially transparent */
+  color: #fff; /* White text initially */
+  animation: fadeInScale 1.5s ease-out;
+}
+
+@keyframes fadeInScale {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Hover effect for primary button */
+.buttonPrimary:hover {
+  background-color: rgba(1, 151, 200, 0.2); /* Light blue background with opacity */
+  color: #fff;
+  border: 2px solid #0197c8; /* Blue border on hover */
+  backdrop-filter: blur(5px); /* Blur effect on background */
+}
+
+/* Hover effect for secondary button */
+.buttonSecondary:hover {
+  background-color: rgba(40, 167, 69, 0.2); /* Light green background with opacity */
+  color: #fff;
+  border: 2px solid #fff; /* Green border on hover */
+  backdrop-filter: blur(5px); /* Blur effect on background */
+}
+
+/* Right Section (SVG Styling) */
+.rightSection {
+  flex: 1;
+  max-width: 45%;
+}
+
+.heroSvg {
+  width: 100%;
+  height: auto;
+  max-width: 650px;
+  animation: zoomIn 1.5s ease-in-out;
+}
+
+/* Animation for SVG */
+@keyframes zoomIn {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Hover Effect for SVG */
+.animate-svg:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .heroContent {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .leftSection, .rightSection {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .heroTitle {
+    font-size: 3.5rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.4rem;
+  }
+
+  .buttons {
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .buttonPrimary, .buttonSecondary {
+    width: 80%;
+    padding: 15px 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .heroTitle {
+    font-size: 2.5rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.3rem;
+  }
+
+  .buttons {
+    gap: 15px;
+  }
+
+  .buttonPrimary, .buttonSecondary {
+    width: 90%;
+    padding: 12px 25px;
+  }
+}
