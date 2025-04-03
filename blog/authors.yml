@@ -1,0 +1,31 @@
+melhajji:
+  name: Mohamed EL HAJJI
+  title: Open TutorAI initiator
+  url: https://github.com/pr-elhajji
+  image_url: https://github.com/pr-elhajji.png
+  page: true
+  socials:
+    x: pr-elhajji
+    github: pr-elhajji
+
+yessaady:
+  name: Youssef ES-SAADY
+  title: Open TutorAI maintainer
+  url: https://github.com/essaady
+  image_url: https://github.com/essaady.png
+  page: true
+  socials:
+    x: essaady
+    github: essaady
+
+taitbaha:
+  name: Tarek AIT BAHA
+  title: Open TutorAI maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/tarekai.png
+  page: true
+  socials:
+    x: tarekai
+    linkedin: tarek-ait-baha
+    github: tarekai
+    newsletter: https://thisweekinreact.com
