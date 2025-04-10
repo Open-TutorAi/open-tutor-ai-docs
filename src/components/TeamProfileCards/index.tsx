@@ -93,7 +93,7 @@ export function ActiveTeamRow(): ReactNode {
             devto: <Link to="https://dev.to/sebastienlorber">Dev.to</Link>,
           }}>
           {
-            'Researcher and Professor with expertise in artificial intelligence and big data, focusing on their transformative applications in education and precision agriculture.'
+            'Professor/Consultant with expertise in artificial intelligence, big data & Digital transforamtion, focusing on their transformative applications in education and precision agriculture...'
           }
         </Translate>
       </TeamProfileCardCol>
