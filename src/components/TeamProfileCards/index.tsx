@@ -200,7 +200,7 @@ export function StudentFellowsTeamRow(): ReactNode {
         </Translate>
       </TeamProfileCardCol>
       <TeamProfileCardCol
-        name="Abdallah OUGOUMAD"
+        name="Abdallah OUGOUMMAD"
         githubUrl="https://github.com/03ABDALLAH"
         >
         <Translate
