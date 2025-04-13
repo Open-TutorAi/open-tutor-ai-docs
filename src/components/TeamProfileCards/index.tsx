@@ -260,6 +260,16 @@ export function StudentFellowsTeamRow(): ReactNode {
           }
         </Translate>
       </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="Hamid ELaaly"
+        githubUrl="https://github.com/hamidElaaly"
+        >
+        <Translate id="team.profile.Hamid Elaaly.body">
+          {
+            ''
+          }
+        </Translate>
+      </TeamProfileCardCol>
     </div>
   );
 }
