@@ -122,7 +122,7 @@ const config: Config = {
           "aria-label": "GitHub repository",          
         },
         {
-          href: 'https://discord.gg/z5fMfrBzEF',
+          href: 'https://discord.gg/BTQtE2deEm',
           position: 'right',
           className: "header-discord-link",
           "aria-label": "Discord community",  
@@ -168,7 +168,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/z5fMfrBzEF',
+              href: 'https://discord.gg/BTQtE2deEm',
             },
             {
               label: 'X',
