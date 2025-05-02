@@ -40,7 +40,7 @@ sidebar_position: 1
 
 - 🎤📹 **Hands-Free Voice/Video Call**: Experience seamless communication with integrated hands-free voice and video call features, allowing for a more dynamic and interactive chat environment.
 
-- 🛠️ **Model Builder**: Easily create Ollama models via the Web UI. Create and add custom characters/agents, customize chat elements, and import models effortlessly through [Open TutorAI Community](https://oepntutorai.com.com/) integration.
+- 🛠️ **Model Builder**: Easily create Ollama models via the Web UI. Create and add custom characters/agents, customize chat elements, and import models effortlessly through [Open TutorAI Community](https://opentutorai.com/) integration.
 
 - 🐍 **Native Python Function Calling Tool**: Enhance your LLMs with built-in code editor support in the tools workspace. Bring Your Own Function (BYOF) by simply adding your pure Python functions, enabling seamless integration with LLMs.
 
@@ -66,7 +66,7 @@ Want to learn more about Open TutorAI's features? Check out our [Open TutorAI do
 
 ## 🔗 Also Check Out Open TutorAI Community!
 
-Don't forget to explore our sibling project, [Open TutorAI Community](https://opentutorai.com/docs/intro/), where you can discover, download, and explore customized Modelfiles. Open TutorAI Community offers a wide range of exciting possibilities for enhancing your chat interactions with Open TutorAI! 🚀
+Don't forget to explore our sibling project, [Open TutorAI Community](https://opentutorai.com/community/support), where you can discover, download, and explore customized Modelfiles. Open TutorAI Community offers a wide range of exciting possibilities for enhancing your chat interactions with Open TutorAI! 🚀
 
 ## How to Install 🚀
 
