@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Open TutorAI 👋
 
-![GitHub stars](https://img.shields.io/github/stars/pr-elhajji/open-tutor-ai-CE?style=social)
-![GitHub forks](https://img.shields.io/github/forks/pr-elhajji/open-tutor-ai-CE?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/pr-elhajji/open-tutor-ai-CE?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/pr-elhajji/open-tutor-ai-CE)
-![GitHub language count](https://img.shields.io/github/languages/count/pr-elhajji/open-tutor-ai-CE)
-![GitHub top language](https://img.shields.io/github/languages/top/pr-elhajji/open-tutor-ai-CE)
-![GitHub last commit](https://img.shields.io/github/last-commit/pr-elhajji/open-tutor-ai-CE)
+![GitHub stars](https://img.shields.io/github/stars/R2D-dev/open-tutor-ai-CE?style=social)
+![GitHub forks](https://img.shields.io/github/forks/R2D-dev/open-tutor-ai-CE?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/R2D-dev/open-tutor-ai-CE?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/R2D-dev/open-tutor-ai-CE)
+![GitHub language count](https://img.shields.io/github/languages/count/R2D-dev/open-tutor-ai-CE)
+![GitHub top language](https://img.shields.io/github/languages/top/R2D-dev/open-tutor-ai-CE)
+![GitHub last commit](https://img.shields.io/github/last-commit/R2D-dev/open-tutor-ai-CE)
 [![Discord](https://img.shields.io/badge/Discord-Open_TutorAI-blue?logo=discord&logoColor=white)](https://discord.gg/BTQtE2deEm)
 
 
@@ -18,7 +18,7 @@ sidebar_position: 1
 **OpenTutorAI-CE** (Community Edition) is an open-source project designed to provide an educational and collaborative AI-powered platform. This public edition is the foundation for a proprietary Enterprise Edition (EE) and is built to encourage community contributions.
 
 :::tip
-  **Looking for an [Enterprise Plan](https://docs.opentutorai.com/enterprise)?** – **[Speak with Our Sales Team Today!](mailto:sales@oepntutorai.com)**
+  **Looking for an [Enterprise Plan](https://opentutorai.com)?** – **[Speak with Our Sales Team Today!](mailto:sales@oepntutorai.com)**
 
   Get **enhanced capabilities**, including **custom theming and branding**, **Service Level Agreement (SLA) support**, **Long-Term Support (LTS) versions**, and **more!**
 :::
@@ -62,11 +62,11 @@ sidebar_position: 1
 
 - 🌟 **Continuous Updates**: We are committed to improving Open TutorAI with regular updates, fixes, and new features.
 
-Want to learn more about Open TutorAI's features? Check out our [Open TutorAI documentation](https://opentutorai.github.io/OpenTutorAI/) for a comprehensive overview!
+Want to learn more about Open TutorAI's features? Check out our [Open TutorAI documentation](https://opentutorai.com/docs/intro/) for a comprehensive overview!
 
 ## 🔗 Also Check Out Open TutorAI Community!
 
-Don't forget to explore our sibling project, [Open TutorAI Community](https://opentutorai.github.io/OpenTutorAI/), where you can discover, download, and explore customized Modelfiles. Open TutorAI Community offers a wide range of exciting possibilities for enhancing your chat interactions with Open TutorAI! 🚀
+Don't forget to explore our sibling project, [Open TutorAI Community](https://opentutorai.com/docs/intro/), where you can discover, download, and explore customized Modelfiles. Open TutorAI Community offers a wide range of exciting possibilities for enhancing your chat interactions with Open TutorAI! 🚀
 
 ## How to Install 🚀
 
@@ -93,7 +93,7 @@ This will start the Open TutorAI server, which you can access at [http://localho
 ### Quick Start with Docker 🐳
 
 :::note  
- Please note that for certain Docker environments, additional configurations might be needed. If you encounter any connection issues, our detailed guide on [Open TutorAI Documentation](https://docs.########.com/) is ready to assist you.
+ Please note that for certain Docker environments, additional configurations might be needed. If you encounter any connection issues, our detailed guide on [Open TutorAI Documentation](https://opentutorai.com/docs/intro) is ready to assist you.
  :::
 
 :::warning
@@ -158,7 +158,7 @@ After installation, you can access Open TutorAI at [http://localhost:3000](http:
 
 ### Other Installation Methods
 
-We offer various installation alternatives, including non-Docker native installation methods, Docker Compose, Kustomize, and Helm. Visit our [Open TutorAI Documentation](https://docs.########.com/getting-started/) or join our [Discord community](https://discord.gg/KJHC5PcT) for comprehensive guidance.
+We offer various installation alternatives, including non-Docker native installation methods, Docker Compose, Kustomize, and Helm. Visit our [Open TutorAI Documentation](https://opentutorai.com/docs/intro) or join our [Discord community](https://discord.gg/KJHC5PcT) for comprehensive guidance.
 
 ### Troubleshooting
 
@@ -184,7 +184,7 @@ docker run --rm --volume /var/run/docker.sock:/var/run/docker.sock containrrr/wa
 
 In the last part of the command, replace `open-tutorai` with your container name if it is different.
 
-Check our Updating Guide available in our [Open TutorAI Documentation](https://docs.opentutorai.com/getting-started/updating).
+Check our Updating Guide available in our [Open TutorAI Documentation](https://opentutorai.com/docs/intro).
 
 ### Using the Dev Branch 🌙
 
@@ -207,7 +207,7 @@ export HF_HUB_OFFLINE=1
 
 ## What's Next? 🌟
 
-Discover upcoming features on our roadmap in the [Open TutorAI Documentation](https://docs.opentutorai.com/roadmap/).
+Discover upcoming features on our roadmap in the [Open TutorAI Documentation](https://opentutorai.com/docs/roadmap/).
 
 ## License 📜
 
