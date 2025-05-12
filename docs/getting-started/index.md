@@ -11,4 +11,4 @@ Welcome to the **Open TutorAI Documentation !** Below is a list of essential gui
 ---
 
 
-Happy exploring! 🎉 If you have questions, join our [community](https://discord.gg/z5fMfrBzEF) or raise an issue on [GitHub](https://github.com/pr-elhajji/open-tutor-ai-CE).
+Happy exploring! 🎉 If you have questions, join our [community](https://discord.gg/BTQtE2deEm) or raise an issue on [GitHub](https://github.com/R2D-dev/open-tutor-ai-CE).
