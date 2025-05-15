@@ -19,7 +19,9 @@ sidebar_position: 1
 ![GitHub last commit](https://img.shields.io/github/last-commit/R2D-dev/open-tutor-ai-CE)
 [![Discord](https://img.shields.io/badge/Discord-Open_TutorAI-blue?logo=discord&logoColor=white)](https://discord.gg/BTQtE2deEm)
 
+
 </div>
+
 
 <br/>
 <div align="left">
