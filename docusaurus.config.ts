@@ -18,7 +18,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'R2D-dev', // Usually your GitHub org/user name.
+  organizationName: 'Open-TutorAi', // Usually your GitHub org/user name.
   projectName: 'open-tutor-ai-docs', // Usually your repo name.
   deploymentBranch: 'main',
   onBrokenLinks: 'ignore',
@@ -54,7 +54,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/R2D-dev/open-tutor-ai-CE/',
+            'https://github.com/Open-TutorAi/open-tutor-ai-CE/',
         },
         blog: {
           showReadingTime: true,
@@ -66,7 +66,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/R2D-dev/open-tutor-ai-CE',
+            'https://github.com/Open-TutorAi/open-tutor-ai-CE',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -116,7 +116,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/R2D-dev/open-tutor-ai-CE',
+          href: 'https://github.com/Open-TutorAi/open-tutor-ai-CE',
           position: 'right',
           className: "header-github-link",
           "aria-label": "GitHub repository",          
@@ -189,7 +189,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/R2D-dev/open-tutor-ai-CE',
+              href: 'https://github.com/Open-TutorAi/open-tutor-ai-CE',
             },
           ],
         },
