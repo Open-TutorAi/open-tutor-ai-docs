@@ -18,7 +18,6 @@ sidebar_position: 1
 ![GitHub last commit](https://img.shields.io/github/last-commit/R2D-dev/open-tutor-ai-CE)
 [![Discord](https://img.shields.io/badge/Discord-Open_TutorAI-blue?logo=discord&logoColor=white)](https://discord.gg/BTQtE2deEm)
 
-<<<<<<< HEAD
 </div>
 <br>
 <div align="left">
@@ -31,15 +30,6 @@ sidebar_position: 1
 > Get **enhanced capabilities**, including **custom theming and branding**, **Service Level Agreement (SLA) support**, **Long-Term Support (LTS) versions**, and **more!**
 
 For more information, be sure to check out our [Open TutorAI Documentation](https://opentutorai.com/docs/intro).
-=======
-**OpenTutorAI-CE** (Community Edition) is an open-source project designed to provide an educational and collaborative AI-powered platform. This public edition is the foundation for a proprietary Enterprise Edition (EE) and is built to encourage community contributions.
-
-:::tip
-  **Looking for an [Enterprise Plan](https://opentutorai.com)?** – **[Speak with Our Sales Team Today!](mailto:sales@oepntutorai.com)**
-
-  Get **enhanced capabilities**, including **custom theming and branding**, **Service Level Agreement (SLA) support**, **Long-Term Support (LTS) versions**, and **more!**
-:::
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
 
 ## ⭐ Key Features of Open TutorAI
 
