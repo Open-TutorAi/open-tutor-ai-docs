@@ -2,6 +2,12 @@
 sidebar_position: 1
 ---
 
+<div align="center">
+  <br/>
+  <img src="../static/img/splash.png" width="120px" alt="" />
+  <br/>
+
+
 # Open TutorAI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/R2D-dev/open-tutor-ai-CE?style=social)
@@ -13,13 +19,17 @@ sidebar_position: 1
 ![GitHub last commit](https://img.shields.io/github/last-commit/R2D-dev/open-tutor-ai-CE)
 [![Discord](https://img.shields.io/badge/Discord-Open_TutorAI-blue?logo=discord&logoColor=white)](https://discord.gg/BTQtE2deEm)
 
+</div>
+
+<br/>
+<div align="left">
+
 **OpenTutorAI-CE** (Community Edition) is an open-source project designed to provide an educational and collaborative AI-powered platform. This public edition is the foundation for a proprietary Enterprise Edition (EE) and is built to encourage community contributions.
 
-:::tip
-  **Looking for an [Enterprise Plan](https://opentutorai.com)?** – **[Speak with Our Sales Team Today!](mailto:sales@oepntutorai.com)**
-
-  Get **enhanced capabilities**, including **custom theming and branding**, **Service Level Agreement (SLA) support**, **Long-Term Support (LTS) versions**, and **more!**
-:::
+> [!TIP]  
+> **Looking for an [Enterprise Plan](https://opentutorai.com)?** – **[Speak with Our Sales Team Today!](mailto:sales@opentutorai.com)**
+>
+> Get **enhanced capabilities**, including **custom theming and branding**, **Service Level Agreement (SLA) support**, **Long-Term Support (LTS) versions**, and **more!**
 
 ## ⭐ Key Features of Open TutorAI
 
@@ -74,30 +84,26 @@ Want to learn more about Open TutorAI's features? Check out our [Open TutorAI do
 
 Don't forget to explore our sibling project, [Open TutorAI Community](https://discord.gg/BTQtE2deEm), where you can discover, download, and explore customized Modelfiles. Open TutorAI Community offers a wide range of exciting possibilities for enhancing your chat interactions with Open TutorAI! 🚀
 
+### Troubleshooting
+
+Encountering connection issues? Our [Open TutorAI Documentation](https://opentutorai.com/docs/troubleshooting/) has got you covered. For further assistance and to join our vibrant community, visit the [Open TutorAI Discord](https://discord.gg/BTQtE2deEm).
 
 ## 🌟 What's Next? 
 
 Discover upcoming features on our roadmap in the [Open TutorAI Documentation](https://opentutorai.com/docs/roadmap).
 
-## 📜 License 
+## 📜 License
 
 This project is licensed under the [BSD-3-Clause License](LICENSE) - see the [LICENSE](LICENSE) file for details. 📄
 
-## 💬 Support 
+## 💬 Support
 
 If you have any questions, suggestions, or need assistance, please open an issue or join our
 [Open TutorAI Discord community](https://discord.gg/BTQtE2deEm) to connect with us! 🤝
 
-## 🌟 Star History
-
-<a href="https://star-history.com/#open-tutorai/open-tutorai&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=open-tutorai/open-tutorai&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=open-tutorai/open-tutorai&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=open-tutorai/open-tutorai&type=Date" />
-  </picture>
-</a>
 
 ---
 
 Let's make Open TutorAI even more amazing together! 💪
+
+</div>
