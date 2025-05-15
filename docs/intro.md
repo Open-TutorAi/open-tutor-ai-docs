@@ -84,7 +84,6 @@ Want to learn more about Open TutorAI's features? Check out our [Open TutorAI do
 
 Don't forget to explore our sibling project, [Open TutorAI Community](https://discord.gg/BTQtE2deEm), where you can discover, download, and explore customized Modelfiles. Open TutorAI Community offers a wide range of exciting possibilities for enhancing your chat interactions with Open TutorAI! 🚀
 
-<<<<<<< HEAD
 ## How to Install 🚀
 
 Below is a list of essential steps and resources to help you get started, manage, and develop with Open TutorAI.
@@ -135,31 +134,20 @@ Follow these steps to set up the project locally:
 ### Troubleshooting
 
 Encountering connection issues? Our [Open TutorAI Documentation](https://opentutorai.com/docs/troubleshooting/) has got you covered. For further assistance and to join our vibrant community, visit the [Open TutorAI Discord](https://discord.gg/BTQtE2deEm).
-=======
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
 
 ## 🌟 What's Next? 
 
 Discover upcoming features on our roadmap in the [Open TutorAI Documentation](https://opentutorai.com/docs/roadmap).
 
-<<<<<<< HEAD
 ## 📜 License
 
 This project is licensed under the [BSD-3-Clause License](LICENSE) - see the [LICENSE](LICENSE) file for details. 📄
 
 ## 💬 Support
-=======
-## 📜 License 
-
-This project is licensed under the [BSD-3-Clause License](LICENSE) - see the [LICENSE](LICENSE) file for details. 📄
-
-## 💬 Support 
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
 
 If you have any questions, suggestions, or need assistance, please open an issue or join our
 [Open TutorAI Discord community](https://discord.gg/BTQtE2deEm) to connect with us! 🤝
 
-<<<<<<< HEAD
 ## Star History
 
 <a href="https://www.star-history.com/#R2D-dev/open-tutor-ai-CE&Date">
@@ -168,16 +156,6 @@ If you have any questions, suggestions, or need assistance, please open an issue
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=R2D-dev/open-tutor-ai-CE&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=R2D-dev/open-tutor-ai-CE&type=Date" />
  </picture>
-=======
-## 🌟 Star History
-
-<a href="https://star-history.com/#open-tutorai/open-tutorai&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=open-tutorai/open-tutorai&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=open-tutorai/open-tutorai&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=open-tutorai/open-tutorai&type=Date" />
-  </picture>
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
 </a>
 
 ---
