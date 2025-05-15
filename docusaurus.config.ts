@@ -54,11 +54,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-<<<<<<< HEAD
-            'https://github.com/pr-elhajji/open-tutor-ai-CE/',
-=======
             'https://github.com/R2D-dev/open-tutor-ai-CE/',
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
         },
         blog: {
           showReadingTime: true,
@@ -70,11 +66,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-<<<<<<< HEAD
-            'https://github.com/pr-elhajji/open-tutor-ai-CE',
-=======
             'https://github.com/R2D-dev/open-tutor-ai-CE',
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -124,21 +116,13 @@ const config: Config = {
           position: 'right',
         },
         {
-<<<<<<< HEAD
-          href: 'https://github.com/pr-elhajji/open-tutor-ai-CE',
-=======
           href: 'https://github.com/R2D-dev/open-tutor-ai-CE',
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
           position: 'right',
           className: "header-github-link",
           "aria-label": "GitHub repository",          
         },
         {
-<<<<<<< HEAD
-          href: 'https://discord.gg/z5fMfrBzEF',
-=======
           href: 'https://discord.gg/BTQtE2deEm',
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
           position: 'right',
           className: "header-discord-link",
           "aria-label": "Discord community",  
@@ -184,11 +168,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-<<<<<<< HEAD
-              href: 'https://discord.gg/z5fMfrBzEF',
-=======
               href: 'https://discord.gg/BTQtE2deEm',
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
             },
             {
               label: 'X',
@@ -209,11 +189,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-<<<<<<< HEAD
-              href: 'https://github.com/pr-elhajji/open-tutor-ai-CE',
-=======
               href: 'https://github.com/R2D-dev/open-tutor-ai-CE',
->>>>>>> ea4fd04cfa8642da8dcd3c4942780ea057bfc152
             },
           ],
         },
