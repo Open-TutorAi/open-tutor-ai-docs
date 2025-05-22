@@ -4,14 +4,14 @@ title: Open TutorAI - An open source educational platform powered by AI
 authors: [melhajji]
 tags: [open-tutorai, ai-in-education, open-source, personalized-learning]
 ---
-
-
+![TutorAI Banner](./static/img/Banner.png)
 
 Artificial intelligence is transforming how we learn — and **Open TutorAI Community Edition** is leading the way.  
 This open-source platform empowers educators, developers, and AI enthusiasts to create **personalized**, **collaborative**, and **self-hosted** learning environments powered by large language models.
 
 As shown in the figure below, built on top of **Open WebUI**, Open TutorAI offers all the tools you need to launch quickly and scale with ease.
 
+![Sequence Diagram](./static/img/Sequence.png)
 
 ## 🎓 Open TutorAI: More Than Just a Chat Interface
 
