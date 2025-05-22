@@ -1,6 +1,6 @@
 ---
 slug: first-blog-post
-title: Open TutorAI: An open source educational platform powered by AI
+title: Open TutorAI - An open source educational platform powered by AI
 authors: [melhajji]
 tags: [open-tutorai, ai-in-education, open-source, personalized-learning]
 ---
