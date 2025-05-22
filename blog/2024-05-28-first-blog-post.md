@@ -13,13 +13,11 @@ As shown in the figure below, built on top of **Open WebUI**, Open TutorAI offer
 
 ![Sequence Diagram](../static/img/Sequence.png)
 
-## 🎓 Open TutorAI: More Than Just a Chat Interface
 
-It’s a **fully-featured educational ecosystem** built to grow with your learning goals.
-
+Open TutorAI: More Than Just a Chat Interface. It’s a **fully-featured educational ecosystem** built to grow with your learning goals.
 
 
-## 🔌 API Compatibility with OpenAI & Ollama
+### API Compatibility with OpenAI & Ollama
 
 Out-of-the-box support for OpenAI-compatible APIs — connect to:
 
@@ -30,7 +28,7 @@ Out-of-the-box support for OpenAI-compatible APIs — connect to:
 - Or use your own local **Ollama** models
 
 
-## 🔐 Granular Permissions & Secure Access
+### Granular Permissions & Secure Access
 
 Use **role-based permissions** to control who can access what — perfect for:
 
@@ -39,28 +37,28 @@ Use **role-based permissions** to control who can access what — perfect for:
 - Research groups
 
 
-## 📚 Built for Learning
+### Built for Learning
 
 Designed specifically for education:
 
-- ✏️ Personalize tutoring support  
-- 🧠 Generate custom LLMs with tailored avatars  
-- 📄 Load course materials, lecture notes, and assignments directly into chat  
+-  Personalize tutoring support  
+-  Generate custom LLMs with tailored avatars  
+-  Load course materials, lecture notes, and assignments directly into chat  
 
 Empower learners with:
 
-- 🔍 **Retrieval-Augmented Generation (RAG)** for document-based answers  
-- 🗣️ **Voice**, 🎥 **Video**, & 🧑‍🏫 **Avatar Chat Modes**: Communicate in a more immersive and interactive way  
+-  **Retrieval-Augmented Generation (RAG)** for document-based answers  
+-  **Voice**,  **Video**, &  **Avatar Chat Modes**: Communicate in a more immersive and interactive way  
 
 
-## ⚙️ Getting Started: Local Installation Guide
+### Getting Started: Local Installation Guide
 
-### 🐳 Easy Setup with Docker
+#### 🐳 Easy Setup with Docker
 
 Spin up your environment in minutes using prebuilt Docker images (`:ollama`, `:cuda`) for **local** or **cloud** deployment.
 
 
-### 1. Fork and Clone the Repository
+#### 1. Fork and Clone the Repository
 
 Visit the GitHub repository:  
 🔗 [Open TutorAI repository](https://github.com/Open-TutorAi/open-tutor-ai-CE)
@@ -72,7 +70,7 @@ git clone https://github.com/YOUR_USERNAME/open-tutor-ai-CE.git
 cd open-tutor-ai-CE
 ```
 
-### 2. Set Up the Backend
+#### 2. Set Up the Backend
 
 ```bash
 cd backend
@@ -84,7 +82,7 @@ pip install -r requirements.txt
 ./start.sh  # for production
 ```
 
-### 3. Set Up the Frontend
+#### 3. Set Up the Frontend
 
 ```bash
 npm install
@@ -95,7 +93,7 @@ For full documentation and troubleshooting, visit:
 📖 **[Open TutorAI Docs](https://opentutorai.com/docs/intro)**
 
 
-## 🤝 Join the Community
+### Join the Community
 
 Join our active community on **Discord** to:
 
@@ -108,7 +106,7 @@ Join our active community on **Discord** to:
 Also explore the **Open TutorAI Community** project for advanced customization and contributions.
 
 
-## 🛣️ What’s Coming Next?
+### What’s Coming Next?
 
 We’re just getting started!
 
