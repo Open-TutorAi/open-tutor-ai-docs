@@ -7,6 +7,11 @@ title: "🚀 Getting Started"
 
 Welcome to the **Open TutorAI Documentation!** Below is a list of essential steps and resources to help you get started, manage, and develop with Open TutorAI.
 
+## 🎥 Video Guide
+
+> 📺 **Watch**: [EP1 – Step-by-step setup guide on YouTube](https://youtu.be/vDOujIcJxrE)
+
+
 ## 🛠️ Setup Guide
 
 Follow these steps to set up the project locally:
