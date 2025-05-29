@@ -11,6 +11,7 @@ Welcome to the **Open TutorAI Documentation!** Below is a list of essential step
 
 > 📺 **Watch**: [EP1 – Step-by-step setup guide on YouTube](https://youtu.be/vDOujIcJxrE)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDOujIcJxrE?si=6G8e8ZiZ3c3f8Z_R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 🛠️ Setup Guide
 
