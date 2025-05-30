@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: 🏡 Home
+hide_title: true
 ---
 
 <div align="center">
